@@ -8,6 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Jabba.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Run Corgi Run/Assets/Scripts/UI.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="TaskManager">
